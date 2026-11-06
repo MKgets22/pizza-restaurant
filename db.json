@@ -1,0 +1,124 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "nombre": "pizza pequena",
+            "categoria": 1,
+            "precio": 10
+        },
+        {
+            "id": 2,
+            "nombre": "pizza mediana",
+            "categoria": 1,
+            "precio": 15
+        },
+        {
+            "id": 3,
+            "nombre": "pizza grande",
+            "categoria": 1,
+            "precio": 20
+        },
+        {
+            "id": 4,
+            "nombre": "hamburguesa pequena",
+            "categoria": 2,
+            "precio": 8
+        },
+        {
+            "id": 5,
+            "nombre": "hamburguesa mediana",
+            "categoria": 2,
+            "precio": 12
+        },
+        {
+            "id": 6,
+            "nombre": "hamburguesa grande",
+            "categoria": 2,
+            "precio": 16
+        },
+        {
+            "id": 7,
+            "nombre": "pai de limon",
+            "categoria": 3,
+            "precio": 5 
+        },
+        {
+            "id": 8,
+            "nombre": "pai de chocolate",
+            "categoria": 3,
+            "precio": 6
+        },
+        {
+            "id": 9,
+            "nombre": "pai de fresa",
+            "categoria": 3,
+            "precio": 7
+        },
+        {
+            "id": 10,
+            "nombre": "refresco pequeno",
+            "categoria": 4,
+            "precio": 2
+        },
+        {
+            "id": 11,
+            "nombre": "refresco mediano",
+            "categoria": 4,
+            "precio": 3
+        },
+        {
+            "id": 12,
+            "nombre": "refresco grande",
+            "categoria": 4,
+            "precio": 4
+        },
+        {
+            "id": 13,
+            "nombre": "agua pequena",
+            "categoria": 4,
+            "precio": 1
+        },
+        {
+            "id": 14,
+            "nombre": "agua mediana",
+            "categoria": 4,
+            "precio": 2
+        },
+        {
+            "id": 15,
+            "nombre": "agua grande",
+            "categoria": 4,
+            "precio": 3
+        },
+        {
+            "id": 16,
+            "nombre": "ensalada pequena",
+            "categoria": 5,
+            "precio": 4
+        },
+        {
+            "id": 17,
+            "nombre": "ensalada mediana",
+            "categoria": 5,
+            "precio": 6
+        },
+        {
+            "id": 18,
+            "nombre": "ensalada grande",
+            "categoria": 5,
+            "precio": 8
+        },
+        {
+            "id": 19,
+            "nombre": "papas pequenas",
+            "categoria": 6,
+            "precio": 3
+        },
+        {
+            "id": 20,
+            "nombre": "papas medianas",
+            "categoria": 6,
+            "precio": 5
+        }
+    ]
+}
